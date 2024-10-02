@@ -9,7 +9,7 @@ This is a React project using JavaScript and Supabase.
 
 ## Environment Setup
 
-The following environment variables are already provided in the project's `.env` file:
+Change the`.env.example` file to `.env` and update your supabase keys:
 
 ```
 VITE_SUPABASE_URL=
